@@ -1,6 +1,6 @@
 -Hello world 
 
--full-time student in CKHS, Taiwan
+-full-time student in NTU, Taiwan
 
 -mostly interested in hardware engineering
 
